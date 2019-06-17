@@ -4,8 +4,8 @@
  * Define function
  */
 
-function add() {
-  return null;
+function add(a, b) {
+  return a + b;
 }
 
 /**
