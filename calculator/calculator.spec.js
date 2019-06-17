@@ -1,3 +1,11 @@
-const { add } = require('./calculator.js');
+'use strict'
 
-// test away!
+/**
+ * Dependencies
+ */
+
+const { add } = require('./calculator.js')
+
+/**
+ * Assertions
+ */
